@@ -1,0 +1,7 @@
+C:\Users\Канаевдс\source\repos\set\set\bin\Debug\set.exe.config
+C:\Users\Канаевдс\source\repos\set\set\bin\Debug\set.exe
+C:\Users\Канаевдс\source\repos\set\set\bin\Debug\set.pdb
+C:\Users\Канаевдс\source\repos\set\set\obj\Debug\set.csprojAssemblyReference.cache
+C:\Users\Канаевдс\source\repos\set\set\obj\Debug\set.csproj.CoreCompileInputs.cache
+C:\Users\Канаевдс\source\repos\set\set\obj\Debug\set.exe
+C:\Users\Канаевдс\source\repos\set\set\obj\Debug\set.pdb
